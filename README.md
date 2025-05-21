@@ -5,3 +5,7 @@
 - 装这个系统可给我折腾的够呛。SteamOS官方恢复镜像，会卡死。ChimeraOS在安装时，因为网络的原因无法下载到SteamOS。Bazzite在进入安装程序后，在安装时会弹出报错导致失败。最后，我选择和holoOS。
     - 安装过程：【SteamOS拯救了我的客厅！SteamOS安装手把手教程!】
     - https://www.bilibili.com/video/BV1NZ5GzAEW5?vd_source=3fcbc9e5a6f1a9ac29e9d3844d22eb7f
+
+
+- Bazzite下载链接：https://s.fnnas.net/s/fa1d57dac3b14d5c95
+- BalenaEtcher下载：https://s.fnnas.net/s/bb59d12606074d1d89
